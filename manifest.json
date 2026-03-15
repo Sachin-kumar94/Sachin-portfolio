@@ -1,0 +1,21 @@
+{
+  "name": "Sachin Kumar - Web Developer Portfolio",
+  "short_name": "Sachin Portfolio",
+  "description": "Portfolio of Sachin Kumar, a passionate web developer specializing in HTML, CSS, JavaScript, React, Node.js, and MERN stack.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e1e1e",
+  "theme_color": "#FFBF00",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
